@@ -1,0 +1,11 @@
+{
+  "start_url": "https://webaverse.github.io/loot-assets/chest/Helm/helm.glb",
+  "components": [
+    {
+      "key": "wear",
+      "value": {
+        "skinnedMesh": "helm"
+      }
+    }
+  ]
+}
